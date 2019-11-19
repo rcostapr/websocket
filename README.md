@@ -1,4 +1,4 @@
-# Websocket Porject With PHP
+# Websocket Project With PHP
 ## Node Server
 - Open Connection to listening for updates
 - Update php pages
